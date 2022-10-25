@@ -1,256 +1,255 @@
 [
     {
-      "_id": "01",
+      "_id": "101",
       "courses_name": "01",
       "title": "Headers And Footers",
       "image_url": "https://s3-us-west-2.amazonaws.com/courses-images/wp-content/uploads/sites/1844/2017/06/02210151/headerfooter-edit.png",
       "details": "A header is text that is placed at the top of a page, while a footer is placed at the bottom, or foot, of a page. Typically these areas are used for inserting document information, such as the name of the document, the chapter heading, page numbers, creation date and the like."
     },
     {
-      "_id": "02",
+      "_id": "102",
       "courses_name": "02",
       "title": "Bootstrap",
       "image_url": "https://bs-uploads.toptal.io/blackfish-uploads/uploaded_file/file/194523/image-1582754405203-acf85cc241bac1caa6b2cd3a460024f8.png",
       "details": "Bootstrap is an HTML, CSS & JS Library that focuses on simplifying the development of informative web pages (as opposed to web apps). The primary purpose of adding it to a web project is to apply Bootstrap's choices of color, size, font and layout to that project. As such, the primary factor is whether the developers in charge find those choices to their liking. Once added to a project, Bootstrap provides basic style definitions for all HTML elements. The result is a uniform appearance for prose, tables and form elements across web browsers. In addition, developers can take advantage of CSS classes defined in Bootstrap to further customize the appearance of their contents. For example, Bootstrap has provisioned for light- and dark-colored tables, page headings, more prominent pull quotes, and text with a highlight."
     },
     {
-      "_id": "03",
+      "_id": "103",
       "courses_name": "03",
-      "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
-      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-      "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+      "title": "PHP Variables",
+      "image_url": "https://www.w3resource.com/w3r_images/php-variable.png",
+      "details": "A variable starts with the $ sign, followed by the name of the variable. A variable name must start with a letter or the underscore character. A variable name cannot start with a number. A variable name can only contain alpha-numeric characters and underscores (A-z, 0-9, and _ )."
     },
     {
-      "_id": "04",
+      "_id": "104",
       "courses_name": "04",
       "title": "Python variable",
       "image_url": "https://cdn.educba.com/academy/wp-content/uploads/2019/09/Python-Variable-Types.png",
       "details": "A Python variable is a symbolic name that is a reference or pointer to an object. Once an object is assigned to a variable, you can refer to the object by that name. But the data itself is still contained within the object."
     },
     {
-      "_id": "05",
+      "_id": "105",
       "courses_name": "05",
-      "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
-      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-      "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+      "title": "Java Variables",
+      "image_url": "https://cdn.educba.com/academy/wp-content/uploads/2019/09/Variables-in-Java.png",
+      "details": "Variable in Java is a data container that saves the data values during Java program execution. Every variable is assigned a data type that designates the type and quantity of value it can hold. A variable is a memory location name for the data. A variable is a name given to a memory location"
     },
     {
-      "_id": "06",
+      "_id": "106",
       "courses_name": "06",
-      "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
-      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-      "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+      "title": "C Variables",
+      "image_url": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/StructureOfCprogram.png",
+      "details": "Variables are containers for storing data values. In C, there are different types of variables (defined with different keywords), for example: int - stores integers (whole numbers), without decimals, such as 123 or -123. float - stores floating point numbers, with decimals, such as 19.99 or -19.99.."
     },
     {
-      "_id": "07",
+      "_id": "107",
       "courses_name": "01",
       "title": "Page Setup",
       "image_url": "https://www.teachucomp.com/wp-content/uploads/blog-11-19-2015-PageSetupInWord.png",
       "details": "Page setup is a set of specific parameters involving the display and layout of a printed page. This type of resource is part of many modern word processing applications and other document processing software, for instance, in Microsoft Office applications."
     },
     {
-      "_id": "08",
+      "_id": "108",
       "courses_name": "02",
       "title": "Tailwind CSS",
       "image_url": "https://res.cloudinary.com/practicaldev/image/fetch/s---s7SYMEO--/c_imagga_scale,f_auto,fl_progressive,h_720,q_auto,w_1280/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g77unjeth8ebdjhtrq0u.png",
       "details": "Tailwind CSS is an open source CSS framework. The main feature of this library is that, unlike other CSS frameworks like Bootstrap, it does not provide a series of predefined classes for elements such as buttons or tables. Instead, it creates a list of  CSS classes that can be used to style each element by mixing and matching. For example, in other traditional systems, there would be a class message-warning that would apply a yellow background color and bold text. To achieve this result in Tailwind, one would have to apply a set of classes created by the library: bg-yellow-200 and font-bold."
     },
     {
-      "_id": "09",
+      "_id": "109",
       "courses_name": "03",
-      "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
-      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-      "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+      "title": "PHP Data Types",
+      "image_url": "data:image/jpeg;base64,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",
+      "details": "The values assigned to a PHP variable may be of different data types including simple string and numeric types to more complex data types like arrays and objects. PHP supports total eight primitive data types: Integer, Floating point number or Float, String, Booleans, Array, Object, resource and NULL."
     },
     {
-      "_id": "10",
+      "_id": "110",
       "courses_name": "04",
       "title": "Python Data Types",
-      "image_url": "https://cdn.educba.com/academy/wp-content/uploads/2019/11/Python-Data-Types.png",
-      "details": "Data types are the classification or categorization of data items. It represents the kind of value that tells what operations can be performed on a particular data. Since everything is an object in Python programming, data types are actually classes and variables are instance of these classes."
+      "image_url": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20191105111644/Data-types-in-Java.jpg",
+      "details": "Primitive data types: The primitive data types include boolean, char, byte, short, int, long, float and double."
     },
     {
-      "_id": "11",
+      "_id": "111",
       "courses_name": "05",
-      "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
+      "title": "Java Data Types",
       "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
       "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
     },
     {
-      "_id": "12",
+      "_id": "112",
       "courses_name": "06",
-      "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
-      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-      "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+      "title": "C Data Types",
+      "image_url": "https://i2.wp.com/embedclogic.com/wp-content/uploads/2017/12/dataType1-1.png?resize=640%2C305",
+      "details": "Each variable in C has an associated data type. Each data type requires different amounts of memory and has some specific operations which can be performed over it. It specifies the type of data that the variable can store like integer, character, floating, double, etc. The data type is a collection of data with values having fixed values, meaning as well as its characteristics."
     },
     {
-      "_id": "13",
+      "_id": "113",
       "courses_name": "01",
       "title": "Paragraph Spacing",
       "image_url": "https://i.ytimg.com/vi/WCUyok_VmLM/maxresdefault.jpg",
       "details": "Line spacing is the space between each line in a paragraph. Word allows you to customize the line spacing to be single spaced (one line high), double spaced (two lines high), or any other amount you want. The default spacing in Word is 1.08 lines, which is slightly larger than single spaced."
     },
     {
-      "_id": "14",
+      "_id": "114",
       "courses_name": "02",
       "title": "JavaScript",
       "image_url": "https://miro.medium.com/max/1400/1*yvvIE8llNBnhYSIcwZexFQ.png",
       "details": "What is JavaScript? JavaScript (often shortened to JS) is a lightweight, interpreted, object-oriented language with first-class functions, and is best known as the scripting language for Web pages, but it's used in many non-browser environments as well"
     },
     {
-      "_id": "15",
+      "_id": "115",
       "courses_name": "03",
-      "title": "",
-      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-      "details": ""
+      "title": "PHP Strings",
+      "image_url": "https://cdn.educba.com/academy/wp-content/uploads/2019/12/String-in-PHP.jpg",
+      "details": "PHP string is a sequence of characters i.e., used to store and manipulate text. PHP supports only 256-character set and so that it does not offer native Unicode support. There are 4 ways to specify a string literal in PHP."
     },
     {
-      "_id": "16",
+      "_id": "116",
       "courses_name": "04",
       "title": "Python Numbers",
       "image_url": "https://techvidvan.com/tutorials/wp-content/uploads/sites/2/2019/12/python-numbers.jpg",
       "details": "Python has three built-in numeric data types: integers, floating-point numbers, and complex numbers. In this section, you'll learn about integers and floating-point numbers, which are the two most commonly used number types. You'll learn about complex numbers in a later section."
     },
     {
-      "_id": "17",
+      "_id": "117",
       "courses_name": "05",
-      "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
-      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-      "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+      "title": "Java Operators",
+      "image_url": "https://cdn.educba.com/academy/wp-content/uploads/2020/02/Java-Operators.jpg",
+      "details": "Java operators are symbols that are used to perform operations on variables and manipulate the values of the operands. Each operator performs specific operations. Let us consider an expression 5 + 1 = 6; here, 5 and 1 are operands, and the symbol + (plus) is called the operator."
     },
     {
-      "_id": "18",
+      "_id": "118",
       "courses_name": "06",
-      "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
-      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-      "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+      "title": "C Constants",
+      "image_url": "https://intellipaat.com/wp-content/uploads/2015/12/constant.png",
+      "details": "C Constant is the most fundamental and essential part of the C programming language. Constants in C are the fixed values used in a program, and their value remains the same during the entire program execution. Constants are also called literals. Constants can be any of the data types."
     },
     {
-      "_id": "19",
+      "_id": "119",
       "courses_name": "01",
       "title": "Insert a Table",
       "image_url": "https://www.howtogeek.com/wp-content/uploads/2015/09/00_lead_image_cell_shading.png?height=200p&trim=2,2,2,2",
       "details": "For a basic table, click Insert > Table and move the cursor over the grid until you highlight the number of columns and rows you want. For a larger table, or to customize a table, select Insert > Table > Insert Table. Tips: If you already have text separated by tabs, you can quickly convert it to a table."
     },
     {
-      "_id": "20",
+      "_id": "120",
       "courses_name": "02",
       "title": "React JS",
       "image_url": "https://reactjs.org/logo-og.png",
       "details": "React (also known as React.js or ReactJS) is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta (formerly Facebook) and a community of individual developers and companies.React can be used as a base in the development of single-page, mobile, or server-rendered applications with frameworks like Next.js. However, React is only concerned with state management and rendering that state to the DOM, so creating React applications usually requires the use of additional libraries for routing, as well as certain client-side functionality."
     },
     {
-      "_id": "21",
+      "_id": "121",
       "courses_name": "03",
-      "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
-      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-      "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+      "title": "PHP Constants",
+      "image_url": "https://www.devopsschool.com/blog/wp-content/uploads/2021/06/Tutorials-of-PHP-OOP-Constants-with-Example-code.jpg",
+      "details": "A constant is an identifier (name) for a simple value. The value cannot be changed during the script. A valid constant name starts with a letter or underscore (no $ sign before the constant name). Note: Unlike variables, constants are automatically global across the entire script."
     },
     {
-      "_id": "22",
+      "_id": "122",
       "courses_name": "04",
       "title": "Python Strings",
       "image_url": "https://techvidvan.com/tutorials/wp-content/uploads/sites/2/2020/07/python-string-tutorial.jpg",
       "details": "Like many other popular programming languages, strings in Python are arrays of bytes representing unicode characters. However, Python does not have a character data type, a single character is simply a string with a length of 1. Square brackets can be used to access elements of the string."
     },
     {
-      "_id": "23",
+      "_id": "123",
       "courses_name": "05",
-      "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
-      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-      "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+      "title": "Java Strings",
+      "image_url": "https://www.edureka.co/blog/wp-content/uploads/2017/05/String-pool-1.png",
+      "details": "In Java, string is basically an object that represents sequence of char values. An array of characters works same as Java string. For example: char[] ch={'j','a','v','a','t','p','o','i','n','t'};"
     },
     {
-      "_id": "24",
+      "_id": "124",
       "courses_name": "06",
-      "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
-      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-      "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+      "title": "C Operators",
+      "image_url": "https://i.ytimg.com/vi/50Pb27JoUrw/maxresdefault.jpg",
+      "details": "C operators are one of the features in C which has symbols that can be used to perform mathematical, relational, bitwise, conditional, or logical manipulations. The C programming language has a lot of built-in operators to perform various tasks as per the need of the program"
     },
     {
-      "_id": "25",
+      "_id": "125",
       "courses_name": "01",
       "title": "Find and Replace",
       "image_url": "https://i.ytimg.com/vi/8ZSlu4DWJ5k/maxresdefault.jpg",
       "details": "Find and Replace helps you to find words or formats in a document and can let you replace all instances of a word or format. This is particularly handy in long documents. To use Find and Replace, use the shortcut Ctrl+H or navigate to Editing in the Home tab of the ribbon, then choose Replace. To just quickly find something, use the shortcut Ctrl+F or navigate to Home>Editing>Find."
     },
     {
-      "_id": "26",
+      "_id": "126",
       "courses_name": "02",
       "title": "HTML",
       "image_url": "https://thumbs.dreamstime.com/z/html-hypertext-markup-language-concept-table-keywords-letters-icons-colored-flat-vector-illustration-html-hypertext-125008944.jpg",
       "details": "The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets and scripting languages such as JavaScript."
     },
     {
-      "_id": "27",
+      "_id": "127",
       "courses_name": "03",
-      "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
-      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-      "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+      "title": "PHP Operators",
+      "image_url": "https://cdn.educba.com/academy/wp-content/uploads/2020/02/PHP-Operators.jpg",
+      "details": "PHP Operator is a symbol i.e used to perform operations on operands PHP Operators Precedence."
     },
     {
-      "_id": "28",
+      "_id": "128",
       "courses_name": "04",
       "title": "Python Booleans",
       "image_url": "https://i.ytimg.com/vi/HiwZV3vJdhk/maxresdefault.jpg",
       "details": "A boolean value is basically named as TRUE or FALSE. Boolean is one of the basic data types used in every computer programming language. In this computer-world returns, the Boolean value is one of the two possible values which is denoted by TRUE or FALSE."
     },
     {
-      "_id": "29",
+      "_id": "129",
       "courses_name": "05",
-      "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
-      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-      "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+      "title": "Java Booleans",
+      "image_url": "https://i.ytimg.com/vi/Jlv_fdB4cTY/maxresdefault.jpg",
+      "details": "In Java, the boolean keyword is a primitive data type. It is used to store only two possible values, either true or false. It specifies 1-bit of information and its size can't be defined precisely. The boolean keyword is used with variables and methods."
     },
     {
-      "_id": "30",
+      "_id": "130",
       "courses_name": "06",
-      "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
-      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-      "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+      "title": "C Break and Continue details",
+      "image_url": "https://i0.wp.com/www.programiz.com/sites/tutorial2program/files/working-break.jpg",
+      "details": "The primary difference between break and continue statement in C is that the break statement leads to an immediate exit of the innermost switch or enclosing loop. On the other hand, the continue statement begins the next iteration of the while, enclosing for, or do loop."
     },
     {
-      "_id": "31",
+      "_id": "131",
       "courses_name": "01",
       "title": "Insert a Blank Page",
       "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
       "details": "To put a blank page into your Word document, place the cursor where you want the new page to begin and then click Insert > Blank Page. The blank page opens, ready for whatever you want to add."
     },
     {
-      "_id": "32",
+      "_id": "132",
       "courses_name": "02",
       "title": "CSS",
       "image_url": "https://colorlib.com/wp/wp-content/uploads/sites/2/creative-css3-tutorials.jpg",
       "details": "Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript."
     },
     {
-      "_id": "33",
+      "_id": "133",
       "courses_name": "03",
-      "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
-      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-      "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+      "title": "PHP Functions",
+      "image_url": "https://www.devopsschool.com/blog/wp-content/uploads/2021/05/functions-in-Php-image.jpg",
+      "details": "A function is a piece of code that takes another input in the form of a parameter, processes it, and then returns a value. A PHP Function feature is a piece of code that can be used over and over again and accepts argument lists as input, and returns a value. PHP comes with thousands of built-in features."
     },
     {
-      "_id": "34",
+      "_id": "134",
       "courses_name": "04",
       "title": "Python Operators",
       "image_url": "https://techvidvan.com/tutorials/wp-content/uploads/sites/2/2019/12/python-operators.jpg",
       "details": "Arithmetic operators are used to perform mathematical operations like addition, subtraction, multiplication, etc."
     },
     {
-      "_id": "35",
+      "_id": "135",
       "courses_name": "05",
-      "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
-      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-      "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
-    }
+      "title": "Java Type Casting",
+      "image_url": "https://i.ytimg.com/vi/9ATVKpRZaPg/maxresdefault.jpg",
+      "details": "In Java, type casting is a method or process that converts a data type into another data type in both ways manually and automatically. The automatic conversion is done by the compiler and manual conversion performed by the programmer."
+    },
     {
-      "_id": "36",
+      "_id": "136",
       "courses_name": "06",
-      "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
-      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-      "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+      "title": "C Arrays",
+      "image_url": "https://cdn.educba.com/academy/wp-content/uploads/2019/10/array-function-in-C.png",
+      "details": "A one-dimensional array is like a list; A two dimensional array is like a table; The C language places no limits on the number of dimensions in an array, though specific implementations may."
     }
-    
-    
+  
   ]

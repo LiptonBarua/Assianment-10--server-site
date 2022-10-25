@@ -5,12 +5,16 @@ const cors = require('cors');
 
 app.use(cors())
 
-const categories = require('./data/categories.json')
+const categories = require('./data/categories.json');
+const courses = require('./data/card.json')
 
 app.get('/categories-list', (req, res)=>{
     res.send(categories);
 });
 
+app.get('/courses/:id', (req, res)=>{
+    console.log(req.params.id)
+})
 
 app.listen(port, ()=>{
     console.log('bangladesh', port)
