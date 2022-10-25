@@ -6,7 +6,6 @@ const cors = require('cors');
 app.use(cors())
 
 const categories = require('./data/categories.json')
-const card = require('./data/card.json')
 
 app.get('/categories-list', (req, res)=>{
     res.send(categories);
