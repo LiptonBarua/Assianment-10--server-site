@@ -1,0 +1,27 @@
+[
+    {
+        "id": "01",
+        "courses_name": "Microsoft Word"
+    },
+    {
+        "id": "02",
+        "courses_name": "Web Development"
+    },
+    {
+        "id": "03",
+        "courses_name": "Graphics Design"
+    },
+    {
+        "id": "04",
+        "courses_name": "Payton"
+    },
+    {
+        "id": "05",
+        "courses_name": "Microsoft Excel"
+    },
+    {
+        "id": "06",
+        "courses_name": "C Programming"
+    }
+
+]
